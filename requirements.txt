@@ -6,3 +6,4 @@ pydantic>=2.0.0
 numpy>=1.20.0
 fastapi
 uvicorn
+langchain-text-splitters
